@@ -15,6 +15,21 @@ Imagine yourself in the vast world of Allumeria, filled with various dungeons an
 </div>
 
 ## Screenshot
+<div align="center">
+  <table>
+  <tr>
+    <td align="center"><img src="screenshots/1.png" width="420" alt="1"/td>
+    <td align="center"><img src="screenshots/2.png" width="420" alt="2"/td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/3.png" width="420" alt="3"/td>
+    <td align="center"><img src="screenshots/4.png" width="420" alt="4"/td>
+  </tr>
+</table>
+</div>
+
+## [Download Asset Pack](https://github.com/WiqbalRar/The-Wanderer-s-Fog-/releases)
+
 <div align="center"
-<img width="380" alt="Cuplikan Layar Dari 2026-06-19 08-46-09" src="screenshot/cuplikan layar dari 2026-06-19 08-46-09.png" />
-I hope you like my work :)
+<h2>I hope you like my work :)</h2>
+</div>
